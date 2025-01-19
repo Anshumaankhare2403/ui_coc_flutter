@@ -40,3 +40,8 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant, version 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html), and is used here with permission.
+
+## About the Project
+
+This project showcases a **Clash of Clans card UI** using **Flutter** for the user interface and **React** for adding animations, bringing the card to life as users interact with it. The combination of Flutter and React enables a smooth and responsive experience, making the app visually appealing and interactive.
+
